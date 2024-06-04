@@ -1,18 +1,38 @@
+<!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Hi,There}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I am Eenxi}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Eenxi!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%E9%A3%8E%E6%98%AF%E8%87%AA%E7%94%B1%E7%9A%84%2C%E5%B8%8C%E6%9C%9B%E4%BD%A0%E4%B9%9F%E6%98%AF;The+wind+is+free+%2C+hope+you+are+too" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Eenxi&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=Eenxi&theme=ambient-gradient&hide_border=true&locale=zh_Hans" />
+<br/>
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Eenxi&theme=tokyo-night&hide_border=true&area=true">
+<br/>
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=py,idea,docker,git,java,html,css,js,github,md,wordpress&theme=light" />
 </p>
 
+<!-- https://github.com/badges/shields -->
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub-Eenxi-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FEenxi" />
+<img src="https://img.shields.io/badge/BiliBili-Star-FF66B2?logo=bilibili&link=https%3A%2F%2Fspace.bilibili.com%2F399082920" />
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=Eenxi&abbreviated=true&color=yellow" />
+</p>
 
-
-
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+</p>
 
 
 <!--
