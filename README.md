@@ -23,8 +23,8 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<img src="https://img.shields.io/badge/GitHub-Eenxi-blue?logo=github&link=https%3A%2F%2Fgithub.com%2FEenxi" />
-<img src="https://img.shields.io/badge/BiliBili-Star-FF66B2?logo=bilibili&link=https%3A%2F%2Fspace.bilibili.com%2F399082920" />
+<a href="https://github.com/Eenxi"><img src="https://img.shields.io/badge/GitHub-Eenxi-blue?logo=github" /></a>
+<a href="https://space.bilibili.com/399082920"><img src="https://img.shields.io/badge/BiliBili-Star-FF66B2?logo=bilibili" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Eenxi&abbreviated=true&color=yellow" />
 </p>
