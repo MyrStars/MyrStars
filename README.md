@@ -10,7 +10,7 @@
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Eenxi&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Eenxi&theme=ambient_gradient&include_all_commits=true&show_icons=true&hide_border=true&locale=cn" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Eenxi&theme=ambient-gradient&hide_border=true&locale=zh_Hans" />
 <br/>
